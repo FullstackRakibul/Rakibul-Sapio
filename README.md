@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RakibulHasan Rabbi
 - 👀 I’m interested in Web Development
 - 🌱 I’m basically i work with Python-Django 
-- 🌱 I’m currently learning PHP-Laravel 
+- 🌱 I have intermediate level of knowledge in PHP-Laravel 
+- 🌱 I am now comfortable with Laravel Livewire
 - 💞️ I’m looking to collaborate on Django or Laravel project
 - 📫 You can reach me ,
 via mail : rakibul.979.hasan@gmail.com
