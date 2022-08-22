@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RakibulHasan Rabbi
 - 👀 I’m interested in Web Development
+- 🌱 I have intermediate level of knowledge in Vue Js
 - 🌱 I’m basically i work with Python-Django 
 - 🌱 I have intermediate level of knowledge in PHP-Laravel 
 - 🌱 I am now comfortable with Laravel Livewire
