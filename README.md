@@ -8,7 +8,7 @@
 - 📫 You can reach me ,
 via mail : rakibul.979.hasan@gmail.com
 via whatsapp : 01625781547
-Fb ID : https://web.facebook.com/rakibulDeveloper/
+Fb ID : https://www.facebook.com/rakibul.hasan.rabbi.98/
 
 
 <!---
